@@ -43,3 +43,8 @@ There are 3 main codes in this repository:
 - **1. Compute Health and Climate data:** This code uses RSTAC client to search health or climate collections on Harmonize STAC between start and end dates and merge all data in a single dataframe.
 - **2. Compute NDVI data:** This code uses sits R package to search for Sentinel 2 NDVI data on BDC STAC between start and end dates, aggregate data monthly, mosaic tiles of same month and compute municipality mean for each month in a single dataframe.
 - **3. Plot health, climate and ndvi csvs:** This code opens precipitation, temperature, dengue and ndvi csvs and plot all monthly data in scatter plots.
+
+## TODO
+- Update notebooks Header
+- Update plots pallete
+- Test plots for 2020 data
