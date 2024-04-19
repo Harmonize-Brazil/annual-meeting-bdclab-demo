@@ -18,7 +18,6 @@
 
 <p align="center">  
   • <a href="#methodology">Methodology</a> &nbsp;
-  • <a href="#roi-region-of-interest">ROI (Region of Interest)</a> &nbsp;
   • <a href="#jupyter-notebooks">Jupyter Notebooks</a> &nbsp;
 </p>
 
@@ -27,7 +26,7 @@
 The ROI includes 21 municipalities in the Lower Tocantins Hotspot and is shown in the image below.
 
 <h1 align="center">
-  <img src="README_flowchart_roi.png" width="70%" style="text-align: center"/>
+  <img src="README_flowchart_roi.png" width="80%" style="text-align: center"/>
 </h1>
 
 ## Jupyter Notebooks
