@@ -4,6 +4,9 @@
 <h1 style='color:#336699;' align=center>BDC Lab Demostration - 2024 Harmonize Annual Meeting</h1>
 
 <p align=center>
+  <a href="https://colab.research.google.com/github/Harmonize-Brazil/annual-meeting-bdclab-demo/" target = "_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab">
+  </a>
   <a href="https://opensource.org/licenses/MIT" target = "_blank">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   </a>
